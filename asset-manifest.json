@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Tomo/static/css/main.9cc46261.css",
-    "main.js": "/Tomo/static/js/main.eb666d1c.js",
+    "main.js": "/Tomo/static/js/main.5ee237e9.js",
     "static/js/787.ffca18fd.chunk.js": "/Tomo/static/js/787.ffca18fd.chunk.js",
     "static/media/login-img.png": "/Tomo/static/media/login-img.6226eaaf958c91259331.png",
     "static/media/Roboto-Regular.ttf": "/Tomo/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
@@ -24,11 +24,11 @@
     "static/media/data1.svg": "/Tomo/static/media/data1.aabbdf27ba47c6f9e3eb027c6396438e.svg",
     "static/media/left-arrow.svg": "/Tomo/static/media/left-arrow.a7816359c573acbd86e5ea36c36f64ee.svg",
     "main.9cc46261.css.map": "/Tomo/static/css/main.9cc46261.css.map",
-    "main.eb666d1c.js.map": "/Tomo/static/js/main.eb666d1c.js.map",
+    "main.5ee237e9.js.map": "/Tomo/static/js/main.5ee237e9.js.map",
     "787.ffca18fd.chunk.js.map": "/Tomo/static/js/787.ffca18fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9cc46261.css",
-    "static/js/main.eb666d1c.js"
+    "static/js/main.5ee237e9.js"
   ]
 }
