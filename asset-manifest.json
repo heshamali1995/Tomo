@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Tomo/static/css/main.0802e9d7.css",
+    "main.js": "/Tomo/static/js/main.be4d5dc5.js",
+    "static/js/787.ffca18fd.chunk.js": "/Tomo/static/js/787.ffca18fd.chunk.js",
+    "static/media/login-img.png": "/Tomo/static/media/login-img.6226eaaf958c91259331.png",
+    "static/media/Roboto-Regular.ttf": "/Tomo/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Tajawal-Regular.ttf": "/Tomo/static/media/Tajawal-Regular.56726bb0358fd1425999.ttf",
+    "static/media/image.png": "/Tomo/static/media/image.73327ba66a924a48d7e2.png",
+    "static/media/client4.png": "/Tomo/static/media/client4.56539f3d772de2b025e7.png",
+    "static/media/client5.png": "/Tomo/static/media/client5.42937b6ce8c0792d4aea.png",
+    "static/media/navlogo.svg": "/Tomo/static/media/navlogo.f98173c3deabb0f7731afe10ef870e88.svg",
+    "static/media/data4.svg": "/Tomo/static/media/data4.736dc70a8ffa17a7fbd46d071cfd442b.svg",
+    "static/media/gear.svg": "/Tomo/static/media/gear.72956466ce3ecb17f096bc7f03e44899.svg",
+    "static/media/data3.svg": "/Tomo/static/media/data3.2e33d9c006186ff191142350231176b2.svg",
+    "static/media/data5.svg": "/Tomo/static/media/data5.632b4f0fcb2e8eb2faa5b3e1b75ad9f9.svg",
+    "static/media/log-out.svg": "/Tomo/static/media/log-out.335c7c8cbcc6612d3ccba7725ff4297a.svg",
+    "static/media/data6.svg": "/Tomo/static/media/data6.087171ac3ef7f5d1ea35665f0e3f2bc3.svg",
+    "index.html": "/Tomo/index.html",
+    "static/media/notif.svg": "/Tomo/static/media/notif.d585029489089f15844207da500d7f41.svg",
+    "static/media/data2.svg": "/Tomo/static/media/data2.a1ce627961866daa0e626f379cff0c48.svg",
+    "static/media/messages.svg": "/Tomo/static/media/messages.b9c94c269bd8758cdc38ad9084edae99.svg",
+    "static/media/msgs.svg": "/Tomo/static/media/msgs.f2ad9b5e0c20a1955827caba7f24229c.svg",
+    "static/media/data1.svg": "/Tomo/static/media/data1.aabbdf27ba47c6f9e3eb027c6396438e.svg",
+    "static/media/left-arrow.svg": "/Tomo/static/media/left-arrow.a7816359c573acbd86e5ea36c36f64ee.svg",
+    "main.0802e9d7.css.map": "/Tomo/static/css/main.0802e9d7.css.map",
+    "main.be4d5dc5.js.map": "/Tomo/static/js/main.be4d5dc5.js.map",
+    "787.ffca18fd.chunk.js.map": "/Tomo/static/js/787.ffca18fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0802e9d7.css",
+    "static/js/main.be4d5dc5.js"
+  ]
+}
