@@ -1,6 +1,6 @@
-import { useState, useEffect } from "react";
-import { useTable } from "react-table";
-import axios from "axios";
+import { useState } from "react";
+/* import { useTable } from "react-table";
+import axios from "axios"; */
 import Select from "react-select";
 import "./program.scss";
 // Components
